@@ -1,0 +1,87 @@
+.container {
+  position: relative;
+  height: 1006px;
+  background: #ffffff;
+}
+.left {
+  position: absolute;
+  left: 0%;
+  right: 70.15%;
+  top: 0%;
+  bottom: 0%;
+  background: #F3F3F3;
+}
+.right {
+  position: absolute;
+  left: 29.85%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #ffffff;
+  border: 1px solid #e8eaef;
+}
+.content-header {
+   height: 50px;
+  color: #ffffff;
+  background: #4077e4;
+}
+.drawer-header {
+  background: #fff;
+  height: 50px;
+  border-bottom: 2px solid #d7d9e0;
+  color: #394166;
+}
+.head-title {
+  position: relative;
+  left: 20px;
+  font-family: Neue Alte Grotesk;
+  font-size: 18px;
+  top: 14px;
+}
+.drawer-title {
+  position: relative;
+  left: 20px;
+  font-family: Neue Alte Grotesk;
+  font-size: 12px;
+  font-weight: bold;
+  top: 14px;
+}
+.upload-txt {
+  position: relative;
+  font-family: Neue Alte Grotesk;
+  font-size: 13px;
+  float: right;
+  right: 23px;
+  top: 14px;
+  cursor: pointer;
+}
+.menu-item {
+  background: #ffffff;
+  margin: 10px 10px 10px 5px;
+  height: 76px;
+}
+.active {
+  border-left: 5px solid #4077e4;
+}
+.item-title {
+  font-weight: bold;
+  position: relative;
+  left: 15px;
+  top: 15px;
+  font-family: Neue Alte Grotesk;
+  font-size: 14px;
+  line-height: 17px;
+  color: #394166;
+}
+.sub-txt {
+  position: relative;
+  left: 16px;
+  right: 66px;
+  top: 14px;
+  font-family: Neue Alte Grotesk;
+  font-size: 12px;
+  color: #394166;
+}
+.content {
+  margin: 25px;
+}
